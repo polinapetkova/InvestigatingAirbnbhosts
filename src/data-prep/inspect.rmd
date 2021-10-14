@@ -20,7 +20,6 @@ library(dplyr)
 
 df <- read.csv(gzfile('data/listings_venice.csv.gz'), as.is = TRUE)
 
-```
 
 # Introduction
 We started by cleaning the raw datasets. Firstly, we removed the variables which were not relevant to our research. Secondly, we merged the datasets into one. The description of each variable can be seen below. Using the cleaned data, we performed a regression analysis. The results are shown and described below. We also checked the assumptions for linear regression: independence, normality, and homoskedasticity.

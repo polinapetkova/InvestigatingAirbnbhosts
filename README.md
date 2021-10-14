@@ -39,7 +39,7 @@ This repository consists of  **NUMBER OF folders** and **NUMBER OF files**. The 
 ## Instructions
 For this research we used R and RStudio software. Useful information about the software and guidelines about the installation process can be found [here](https://tilburgsciencehub.com/building-blocks/configure-your-computer/statistics-and-computation/r/). Moreover, to run the automated pipeline, you should install Make which you can do by following the guidelines provided [here](https://tilburgsciencehub.com/building-blocks/configure-your-computer/automation-and-workflows/make/). 
 
-Additionally, the different library packages that should be used in RStudio are provided in each of the files. Without istalling these packages, you cannot run the codes. 
+Additionally, the different library packages that should be used in RStudio are provided in each of the files. Without installing these packages, you cannot run the codes. 
 
 ## Usefull Sources
 litersture/links wtc

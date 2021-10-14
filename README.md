@@ -1,4 +1,4 @@
-# 'Attractive' Hosts: a global AirBnB research
+# The effect of Airbnb host response time on bookings
 
 
 ## Good Host vs Bad Host: What makes an "attractive" Airbnb host?

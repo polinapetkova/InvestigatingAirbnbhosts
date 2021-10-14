@@ -26,20 +26,20 @@ We started by cleaning the raw datasets. Firstly, we removed the variables which
 
 ## Description of variables - our cleaned dataset includes the following variables
 
-####Host_id
+###Host_id
 Host_id is a numeric variable that represents a unique id number of each host on the platform. 
 
-####Within_hour_response
+###Within_hour_response
 Within_hour_response is a dummy variable which was created based on the response time variable. When the value is 1, the response time of the host is within one hour. 
 
-####Within_few_hours_response
+###Within_few_hours_response
 Within_few_hours_response is another dummy variable which was created based on the response time variable. When the value is 1, the response time of the host is within a few hours.
 
-####Within_day_response
+###Within_day_response
 Within_day_response is a third variable which was created based on the response time variable. When the value is 1, the response time of the host is within a day. 
 The base level used for the dummy variables is "within_few_days". This means that whenever the three above-mentioned dummy variables are equal to 0, the response time of the host is within a few days. 
 
-####Booked_no
+###Booked_no
 The booked number variable is a numeric variable that represents the 
 
 ## R Markdown
